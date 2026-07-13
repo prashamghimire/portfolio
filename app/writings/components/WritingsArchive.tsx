@@ -23,7 +23,6 @@ export default function WritingsArchive() {
           writing.title.toLowerCase().includes(search.toLowerCase()) ||
           writing.category.toLowerCase().includes(search.toLowerCase()) ||
           writing.language.toLowerCase().includes(search.toLowerCase()) ||
-          writing.excerpt.toLowerCase().includes(search.toLowerCase()) ||
           writing.topics.some((topic) =>
             topic.toLowerCase().includes(search.toLowerCase())
           );
