@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 import Navbar from "@/components/layout/Navbar";
@@ -44,7 +45,7 @@ export default function SecretariatPage() {
 
         </section>
 
-        <section className="max-w-5xl mx-auto px-8 py-20">
+        <section className="max-w-6xl mx-auto px-8 py-20">
 
           <div className="space-y-8">
 
@@ -56,21 +57,37 @@ export default function SecretariatPage() {
                 className="block bg-white rounded-3xl shadow-md p-8 hover:shadow-xl transition"
               >
 
-                <p className="text-sm uppercase tracking-[0.25em] text-yellow-600 font-semibold">
-                  {formatDate(document.published)}
-                </p>
+                <div className="grid md:grid-cols-[320px_1fr] gap-8 items-center">
 
-                <h2 className="mt-3 text-2xl font-bold text-slate-900">
-                  {document.title}
-                </h2>
+                  <Image
+                    src={document.cover}
+                    alt={document.title}
+                    width={320}
+                    height={450}
+                    className="rounded-xl border border-slate-200 shadow-md object-cover"
+                  />
 
-                <p className="mt-5 text-slate-700 leading-8">
-                  {document.summary}
-                </p>
+                  <div>
 
-                <p className="mt-6 text-yellow-700 font-semibold">
-                  Read Document →
-                </p>
+                    <p className="text-sm uppercase tracking-[0.25em] text-yellow-600 font-semibold">
+                      {formatDate(document.published)}
+                    </p>
+
+                    <h2 className="mt-3 text-3xl font-bold text-slate-900">
+                      {document.title}
+                    </h2>
+
+                    <p className="mt-5 text-slate-700 leading-8">
+                      {document.summary}
+                    </p>
+
+                    <span className="inline-block mt-8 bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-xl transition">
+                      Read Document →
+                    </span>
+
+                  </div>
+
+                </div>
 
               </Link>
 
@@ -83,7 +100,6 @@ export default function SecretariatPage() {
       </main>
 
       <Footer />
-
     </>
   );
 }

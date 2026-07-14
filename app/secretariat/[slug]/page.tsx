@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import Link from "next/link";
 
 import Navbar from "@/components/layout/Navbar";
@@ -84,22 +85,13 @@ export default async function DocumentPage({
 
         <section className="max-w-5xl mx-auto px-8 mt-14">
 
-          <div className="bg-white rounded-3xl shadow-md p-10">
-
-            <p className="text-lg leading-8 text-slate-700">
-              {document.summary}
-            </p>
-
-            <a
-              href={document.pdf}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block mt-10 bg-slate-900 hover:bg-black text-white px-7 py-3 rounded-xl transition"
-            >
-              Read PDF →
-            </a>
-
-          </div>
+          <Image
+            src={document.file}
+            alt={document.title}
+            width={900}
+            height={1273}
+            className="mx-auto rounded-2xl shadow-lg"
+          />
 
         </section>
 
