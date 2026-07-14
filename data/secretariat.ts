@@ -70,9 +70,7 @@ export const documents: Document[] = [
     summary:
       "Official commencement of the personal letterhead of Prasham Ghimire.",
 
-    file: "/secretariat(files)/introduction.png",
-
-    cover: "/secretariat(files)/introduction.png",
-  },
-
+    file: "/secretariat(files)/intro.png",
+    cover: "/secretariat(files)/intro.png", 
+  }
 ];
