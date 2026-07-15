@@ -27,7 +27,7 @@ export const documents: Document[] = [
 
     type: "Message",
 
-    published: "2026-07-14",
+    published: "2026-07-15",
 
     summary:
       "Welcome message marking the launch of the official website and digital archive.",
