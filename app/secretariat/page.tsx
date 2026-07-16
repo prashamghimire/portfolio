@@ -7,6 +7,8 @@ import Footer from "@/components/layout/Footer";
 import { documents } from "@/data/secretariat";
 
 function formatDate(date: string) {
+  if (!date) return "";
+
   return new Date(date).toLocaleDateString("en-GB", {
     day: "numeric",
     month: "long",
@@ -70,7 +72,7 @@ export default function SecretariatPage() {
                   <div>
 
                     <p className="text-sm uppercase tracking-[0.25em] text-yellow-600 font-semibold">
-                      {formatDate(document.published)}
+                      {document.dateLabel || formatDate(document.published)}
                     </p>
 
                     <h2 className="mt-3 text-3xl font-bold text-slate-900">

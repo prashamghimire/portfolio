@@ -14,28 +14,32 @@ export interface Document {
   file: string;
 
   cover: string;
+
+  dateLabel?: string;
 }
 
 export const documents: Document[] = [
 
-  {
-    id: "welcome-message",
+{
+  id: "welcome-message",
 
-    title: "Welcome to prashamghimire.com.np",
+  title: "Welcome to prashamghimire.com.np",
 
-    slug: "welcome-message",
+  slug: "welcome-message",
 
-    type: "Message",
+  type: "Message",
 
-    published: "",
+  published: "",
 
-    summary:
-      "Welcome message marking the launch of the official website and digital archive.",
+  dateLabel: "Official Welcome",
 
-    file: "/secretariat(files)/welcome-notice.png",
+  summary:
+    "Welcome message marking the launch of the official website and digital archive.",
 
-    cover: "/secretariat(files)/welcome-notice.png",
-  },
+  file: "/secretariat(files)/welcome-notice.png",
+
+  cover: "/secretariat(files)/welcome-notice.png",
+},
 
   {
     id: "clarification-notice",
