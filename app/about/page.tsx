@@ -97,13 +97,6 @@ export default function AboutPage() {
   </div>
 
   <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
-    <p className="text-sm font-semibold text-slate-500">Rashi (Zodiac)</p>
-    <p className="mt-2 text-lg font-medium text-slate-900">
-      Makar (Capricorn)
-    </p>
-  </div>
-
-  <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
     <p className="text-sm font-semibold text-slate-500">Current Address</p>
     <p className="mt-2 text-lg font-medium text-slate-900">
       Tokha Road, Samakhushi
