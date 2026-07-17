@@ -89,7 +89,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="hover:text-yellow-400 transition"
               >
-                X(Previously Twitter) 
+                X (Previously Twitter) 
               </a>
 
               <a
