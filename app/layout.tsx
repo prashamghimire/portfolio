@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 import PersonSchema from "@/components/seo/PersonSchema";
 
@@ -94,6 +95,7 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <PersonSchema />
+        <GoogleAnalytics />
         {children}
       </body>
     </html>
