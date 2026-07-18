@@ -289,5 +289,52 @@ export const writings: Writing[] = [
     "writings/the-crisis-of-leadership.md",
 },
 
+{
+  id: "timro-chahana-chhaina-malai",
+
+  title: "तिम्रो चाहना छैन मलाई",
+
+  slug: "timro-chahana-chhaina-malai",
+
+  category: "Poem",
+
+  language: "Nepali",
+
+  published: "2024-11-24",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    " ",
+
+  background:
+    "",
+
+  dedication:
+    "Anonymous.",
+
+  topics: [
+    "Poetry",
+    "grief",
+    "love",
+    "sadness"
+  ],
+
+  keywords: [
+    "heartbreak",
+    "Hope",
+    "love",
+    "sadness"
+  ],
+
+  content:
+    "writings/timro-chahana-chhaina-malai.md",
+}
+
+
+
+
 
 ];
