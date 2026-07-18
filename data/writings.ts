@@ -247,7 +247,47 @@ export const writings: Writing[] = [
     "writings/bittiya-siksha.md",
 },
 
+{
+  id: "the-crisis-of-leadership-in-the-age-of-viral-fame",
 
+  title: "The Crisis of Leadership in the Age of Viral Fame",
+
+  slug: "the-crisis-of-leadership-in-the-age-of-viral-fame",
+
+  category: "Article",
+
+  language: "English",
+
+  published: "2026-07-16",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "Viral fame may shape today's headlines, but history ultimately remembers those who choose service over popularity and principle over applause.",
+
+  background:
+    "Trying to question the impact of viral fame on leadership. This article was written during my post +2 board exam leisure time.",
+
+  dedication:
+    "To all the netizens and the public.",
+
+  topics: [
+    "social media",
+    "contemporary issues",
+    "leadership",
+  ],
+
+  keywords: [
+    "social media",
+    "contemporary issues",
+    "leadership"
+  ],
+
+  content:
+    "writings/the-crisis-of-leadership.md",
+},
 
 
 ];
