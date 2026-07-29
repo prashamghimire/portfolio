@@ -81,7 +81,7 @@ export default function AboutPage() {
 
   <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
     <p className="text-sm font-semibold text-slate-500">Birth Place</p>
-    <p className="mt-2 text-lg font-medium text-slate-900">Kathmandu, Nepal</p>
+    <p className="mt-2 text-lg font-medium text-slate-900">Arjundhara, Jhapa</p>
   </div>
 
   <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
@@ -113,9 +113,9 @@ export default function AboutPage() {
   </h2>
 
   <div className="bg-white rounded-2xl shadow-md p-8">
-
+Currently, I'm in my post +2 boards vacation period, and I am preparing for my upcoming university entrance exams. I am also actively involved in various extracurricular activities, including public speaking, writing, and leadership roles within my community.
     <p className="text-lg leading-8 text-slate-700">
-      Currently, I am pursuing my Bachelor's education (BBM) at Southwestern State College, Basundhara, Kathmandu.
+
     </p>
 
     <p className="mt-5 text-lg leading-8 text-slate-700">
