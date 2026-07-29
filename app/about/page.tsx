@@ -191,7 +191,7 @@ Currently, I'm in my post +2 boards vacation period, and I am preparing for my u
 
     <div className="bg-white rounded-2xl shadow-md p-8">
       <h3 className="text-xl font-bold text-slate-900">
-        Southwestern State College
+        Southwestern State Secondary School
       </h3>
 
       <p className="mt-4 leading-8 text-slate-700">
