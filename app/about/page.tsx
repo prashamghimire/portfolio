@@ -152,10 +152,7 @@ Currently, I'm in my post +2 boards vacation period, and I am preparing for my u
       "History",
       "Quiz",
       "Literature",
-      "Philosophy",
-
-      "Music",
-      "Fantasy Cinema"
+      "Philosophy"
     ].map((item) => (
 
       <span
