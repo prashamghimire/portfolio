@@ -76,7 +76,7 @@ export default function AboutPage() {
 
   <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
     <p className="text-sm font-semibold text-slate-500">Birth Date</p>
-    <p className="mt-2 text-lg font-medium text-slate-900">9 January 2008</p>
+    <p className="mt-2 text-lg font-medium text-slate-900">January 2008</p>
   </div>
 
   <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
