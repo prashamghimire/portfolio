@@ -104,20 +104,20 @@ export default function JourneyPage() {
 
             </div>
 
-            {/* Southwestern Secondary */}
+            {/* Southwestern State College */}
 
             <div className="bg-white rounded-3xl shadow-md p-8 text-center">
 
               <Image
-                src="/journey/swsss.png"
-                alt="Southwestern State Secondary School"
+                src="/journey/swsc.jpg"
+                alt="Southwestern State College "
                 width={1300}
                 height={900}
                 className="mx-auto h-auto"
               />
 
               <h3 className="mt-6 text-2xl font-bold text-slate-900">
-                Southwestern State Secondary School
+                Southwestern State College
               </h3>
 
               <p className="mt-3 text-slate-600">
@@ -129,7 +129,7 @@ export default function JourneyPage() {
               </p>
 
               <Link
-  href="/journey/swsss"
+  href="/journey/unepal"
   className="inline-block mt-8 bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-xl transition"
 >
   View Memories →
@@ -137,20 +137,20 @@ export default function JourneyPage() {
 
             </div>
 
-            {/* Southwestern College */}
+            {/* University of Nepal */}
 
             <div className="bg-white rounded-3xl shadow-md p-8 text-center">
 
               <Image
-                src="/journey/swsc.jpg"
-                alt="Southwestern State College"
+                src="/journey/unepal.webp"
+                alt="University of Nepal"
                 width={300}
                 height={300}
                 className="mx-auto h-auto"
               />
 
               <h3 className="mt-6 text-2xl font-bold text-slate-900">
-                Southwestern State College
+                University of Nepal
               </h3>
 
               <p className="mt-3 text-slate-600">
@@ -158,11 +158,11 @@ export default function JourneyPage() {
               </p>
 
               <p className="mt-1 text-slate-600">
-                Bachelor of Business Management (TU)
+                Bachelor of Science in Business Analytics
               </p>
 
               <Link
-                href="/journey/swsc"
+                href="/journey/unepal"
                 className="inline-block mt-8 bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-xl transition"
               >
                 View Memories →

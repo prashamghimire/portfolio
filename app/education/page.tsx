@@ -66,7 +66,7 @@ export default function EducationPage() {
             </p>
 
             <h2 className="text-3xl font-bold mt-3 text-slate-900">
-              Southwestern State Secondary School
+              Southwestern State College
             </h2>
             <p className="mt-2 text-lg text-slate-600">
     Management Stream (Business Studies)
@@ -87,7 +87,7 @@ export default function EducationPage() {
             </Link>
 
           </div>
-{/* Southwestern State College */}
+{/* University of Nepal */}
 <div className="bg-white rounded-2xl shadow-md p-8 hover:shadow-xl transition">
 
   <p className="text-yellow-600 font-semibold uppercase text-sm">
@@ -95,11 +95,11 @@ export default function EducationPage() {
   </p>
 
   <h2 className="text-3xl font-bold mt-3 text-slate-900">
-    Southwestern State College
+    University of Nepal
   </h2>
 
   <p className="mt-2 text-lg text-slate-600">
-    Bachelor of Business Management (BBM)
+    Bachelor of Science in Business Analytics
   </p>
 
   <p className="mt-5 text-slate-500 italic leading-8">
@@ -107,7 +107,7 @@ export default function EducationPage() {
   </p>
 
   <Link
-    href="/education/bbm"
+    href="/education/unepal"
     className="inline-block mt-8 bg-slate-900 text-white px-6 py-3 rounded-lg hover:bg-slate-800 transition"
   >
     Read More
