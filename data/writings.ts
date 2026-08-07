@@ -9,11 +9,12 @@ export interface Writing {
     | "Article"
     | "Essay"
     | "Speech"
-    | "Debate Script"
     | "Poem"
+    | "Muktak"
     | "Reflection"
     | "Journal"
-    | "Book Review";
+    | "Book Review"
+    | "Editorial Contributions";
 
   language: "English" | "Nepali";
 
@@ -39,6 +40,51 @@ export interface Writing {
 }
 
 export const writings: Writing[] = [
+  
+  {
+  id: "muktaks",
+
+  title: "मुक्तकहरू",
+
+  slug: "muktaks",
+
+  category: "Muktak",
+
+  language: "Nepali",
+
+  published: "2026-07-11",
+
+  featured: true,
+
+  cover: null,
+
+  summary:
+    "You got it well. Needs no explanation.",
+
+  background:
+    "Just having fun with words and rhymes. This poem was written during my post +2 board exam leisure time.",
+
+  dedication:
+    "Anonymous.",
+
+  topics: [
+    "Poetry",
+    "love",
+    "sadness"
+  ],
+
+  keywords: [
+    "love",
+    "heartbreak"
+  ],
+
+  content:
+    "writings/muktaks.md",
+},
+
+  
+  
+  
   {
     id: "kal-pratiksha",
 
