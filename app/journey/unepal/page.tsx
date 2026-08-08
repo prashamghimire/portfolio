@@ -4,7 +4,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
 import AchievementCard from "@/components/journey/AchievementCard";
-import { swscAchievements } from "@/data/journey/swsc";
+import { swscAchievements } from "@/data/journey/unepal";
 
 export default function SWSCPage() {
   return (
@@ -16,10 +16,10 @@ export default function SWSCPage() {
         <section className="max-w-6xl mx-auto px-8 pt-20 text-center">
 
           <Image
-            src="/journey/swsc.jpg"
-            alt="Southwestern State College"
+            src="/journey/unepal.webp"
+            alt="University of Nepal"
             width={1500}
-            height={150}
+            height={1500}
             className="mx-auto h-50 w-auto"
           />
 
@@ -28,7 +28,7 @@ export default function SWSCPage() {
           </p>
 
           <h1 className="text-5xl font-bold text-slate-900 mt-5">
-            Southwestern State College
+            University of Nepal
           </h1>
 
           <p className="mt-5 text-xl text-slate-600">
@@ -42,7 +42,7 @@ export default function SWSCPage() {
           <div className="bg-white rounded-3xl shadow-md p-10">
 
             <p className="text-lg leading-8 text-slate-700">
-              I hope my time at Southwestern State College will be a transformative experience, further developing my academic and leadership skills. I hope to take on increasing responsibilities, contribute to various academic initiatives, and continue to grow as a student and future professional.
+              I hope my time at University of Nepal will be a transformative experience, further developing my academic and leadership skills. I hope to take on increasing responsibilities, contribute to various academic initiatives, and continue to grow as a student and future professional.
             </p>
 
           </div>

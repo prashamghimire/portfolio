@@ -109,15 +109,15 @@ export default function JourneyPage() {
             <div className="bg-white rounded-3xl shadow-md p-8 text-center">
 
               <Image
-                src="/journey/swsc.jpg"
-                alt="Southwestern State College "
+                src="/journey/swsss.png"
+                alt="Southwestern State Secondary School"
                 width={1300}
                 height={900}
                 className="mx-auto h-auto"
               />
 
               <h3 className="mt-6 text-2xl font-bold text-slate-900">
-                Southwestern State College
+                Southwestern State Secondary School
               </h3>
 
               <p className="mt-3 text-slate-600">
@@ -129,7 +129,7 @@ export default function JourneyPage() {
               </p>
 
               <Link
-  href="/journey/unepal"
+  href="/journey/swsss"
   className="inline-block mt-8 bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-xl transition"
 >
   View Memories →
@@ -144,12 +144,14 @@ export default function JourneyPage() {
               <Image
                 src="/journey/unepal.webp"
                 alt="University of Nepal"
-                width={300}
-                height={300}
+                width={1500}
+                height={900}
                 className="mx-auto h-auto"
               />
 
               <h3 className="mt-6 text-2xl font-bold text-slate-900">
+                
+                
                 University of Nepal
               </h3>
 

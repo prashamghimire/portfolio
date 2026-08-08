@@ -66,7 +66,7 @@ export default function EducationPage() {
             </p>
 
             <h2 className="text-3xl font-bold mt-3 text-slate-900">
-              Southwestern State College
+              Southwestern State Secondary School
             </h2>
             <p className="mt-2 text-lg text-slate-600">
     Management Stream (Business Studies)
@@ -86,6 +86,7 @@ export default function EducationPage() {
               Read More
             </Link>
 
+
           </div>
 {/* University of Nepal */}
 <div className="bg-white rounded-2xl shadow-md p-8 hover:shadow-xl transition">
@@ -99,11 +100,11 @@ export default function EducationPage() {
   </h2>
 
   <p className="mt-2 text-lg text-slate-600">
-    Bachelor of Science in Business Analytics
+    Currently Studying.
   </p>
 
   <p className="mt-5 text-slate-500 italic leading-8">
-    This chapter of my academic journey is yet to begin.
+    I am currently pursuing my undergraduate studies at the University of Nepal. This phase of my education is focused on deepening my understanding of business principles, economics, management strategies, and preparing for a future career in the field.
   </p>
 
   <Link
@@ -112,7 +113,7 @@ export default function EducationPage() {
   >
     Read More
   </Link>
-
+ss
 </div>
         </section>
 

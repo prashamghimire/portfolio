@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import Link from "next/link";
 
 export default function AboutPage() {
   return (
@@ -177,7 +178,18 @@ Currently, I'm in my post +2 boards vacation period, and I am preparing for my u
     My Journey
   </h2>
 
+
   <div className="space-y-8">
+
+    <div className="bg-white rounded-2xl shadow-md p-8">
+      <h3 className="text-xl font-bold text-slate-900">
+        Lunar English Boarding School
+      </h3>
+
+      <p className="mt-4 leading-8 text-slate-700">
+        Completed my Basic Level Education (BLE) Examination. During these years, I actively participated in Quiz Contests and other extracurricular activities that laid the foundation for my interest in academics and early leadership.
+      </p>
+    </div>
 
     <div className="bg-white rounded-2xl shadow-md p-8">
       <h3 className="text-xl font-bold text-slate-900">
@@ -205,13 +217,22 @@ Currently, I'm in my post +2 boards vacation period, and I am preparing for my u
       </h3>
 
       <p className="mt-4 leading-8 text-slate-700">
-        I aspire to contribute meaningfully through writing, research, public service and leadership while continuing to preserve my work through this digital archive.
+        I aspire to contribute meaningfully through writing, research, public service and leadership while continuing to preserve my work through this digital archive. I plan to pursue higher education in UNepal and I am committed to lifelong learning and personal growth.
       </p>
     </div>
 
   </div>
 
-</section>
+    <div>
+      <Link
+        href="/journey/leaderships"
+        className="inline-block mt-8 bg-slate-900 text-white px-6 py-3 rounded-lg hover:bg-slate-800 transition"
+      >
+        Leadership Journey
+      </Link>
+    </div>
+
+  </section>
 
 
         </main>

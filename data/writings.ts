@@ -52,30 +52,29 @@ export const writings: Writing[] = [
 
   language: "Nepali",
 
-  published: "2026-07-11",
+  published: "2026 to Present",
 
-  featured: true,
+  featured: false,
 
   cover: null,
 
   summary:
-    "You got it well. Needs no explanation.",
+    "This is the collection of all the muktaks I've written till now. It is a forever work-in-progress section, and will be updated regularly.",
 
   background:
-    "Just having fun with words and rhymes. This poem was written during my post +2 board exam leisure time.",
+    "This is the collection of all the muktaks written by me.",
 
   dedication:
     "Anonymous.",
 
   topics: [
     "Poetry",
+    "mUKTAK",
     "love",
-    "sadness"
   ],
 
   keywords: [
-    "love",
-    "heartbreak"
+    "muktak",
   ],
 
   content:
@@ -98,7 +97,7 @@ export const writings: Writing[] = [
 
     published: "2026-07-10",
 
-    featured: true,
+    featured: false,
 
     cover: null,
 

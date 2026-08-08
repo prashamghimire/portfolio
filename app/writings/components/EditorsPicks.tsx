@@ -57,7 +57,7 @@ export default function EditorsPicks() {
             p-10
             hover:bg-slate-800
             transition
-            min-h-[420px]
+            min-h-105
           "
         >
 
