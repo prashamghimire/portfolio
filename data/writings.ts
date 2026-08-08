@@ -41,6 +41,48 @@ export interface Writing {
 
 export const writings: Writing[] = [
   
+{
+  id: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
+
+  title: "Testimonial featured in the book 'The Power of Mindset' by Dr. Rajendra KC",
+
+  slug: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
+
+  category: "Editorial Contributions",
+
+  language: "English",
+
+  published: "2026/07/31",
+
+  featured: true,
+
+  cover: null,
+
+  summary:
+    "Read it if you want to know what I think about the book 'The Power of Mindset' by Dr. Rajendra KC.",
+
+  background:
+    " This is the testimonial I wrote for the book 'The Power of Mindset' by Dr. Rajendra KC, which was published in the book.",
+
+  dedication:
+    "To all the readers of this book.",
+
+  topics: [
+    "book testimonials",
+    "review",
+    "editorial contribution",
+  ],
+
+  keywords: [
+    "testimonials",
+  ],
+
+  content:
+    "writings/tpom.md",
+},
+
+
+
   {
   id: "muktaks",
 

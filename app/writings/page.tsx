@@ -29,7 +29,7 @@ export default function WritingsPage() {
           
         </section>
 
-        {/* Editor's Picks */}
+        {/* Publications & Features */}
         <EditorsPicks />
 
         {/* All Writings */}
