@@ -207,11 +207,11 @@ export const swsssAchievements: Achievement[] = [
 
     date: "2083 B.S.",
 
-    result: "Management Stream",
+    result: "3.42 GPA",
 
     organizer: "Southwestern State Secondary School",
 
-    location: "Kathmandu",
+    location: "Basundhara, Kathmandu",
 
     summary:
       "Successfully completed higher secondary education (+2).",
@@ -220,7 +220,7 @@ export const swsssAchievements: Achievement[] = [
       "Completed my +2 education in the Management stream at Southwestern State Secondary School. These two years shaped my leadership, communication and management skills while preparing me for higher education.",
 
     images: [
-      "/journey/swsss/management-club/1.jpg",
+      "/journey/swsss/plus2/1.jpg",
     ],
   },
 

@@ -88,10 +88,10 @@ export default function SWSSSPage() {
     </p>
 
     <Link
-      href="/journey/swsc"
+      href="/journey/unepal"
       className="mt-2 inline-block text-lg font-semibold text-slate-900 hover:text-yellow-600 transition"
     >
-      Southwestern State College →
+      University of Nepal →
     </Link>
 
   </div>

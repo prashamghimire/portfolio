@@ -48,7 +48,7 @@ export const writings: Writing[] = [
 
   slug: "muktaks",
 
-  category: "Muktak",
+  category: "Poem",
 
   language: "Nepali",
 
