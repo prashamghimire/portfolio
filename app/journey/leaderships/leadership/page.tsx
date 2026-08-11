@@ -17,10 +17,10 @@ export default function LeadershipPage() {
         <section className="max-w-6xl mx-auto px-8 pt-20 text-center">
 
           <Image
-            src="/journey/leadership/leadership-cover.jpg"
+            src="/journey/leadership-cover.jpg"
             alt="Leadership"
-            width={100}
-            height={100}
+            width={500}
+            height={500}
             className="mx-auto h-24 w-auto"
           />
 

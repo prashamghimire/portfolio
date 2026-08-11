@@ -18,10 +18,10 @@ export default function CommunityServicePage() {
         <section className="max-w-6xl mx-auto px-8 pt-20 text-center">
 
           <Image
-            src="/journey/leadership/community-service-cover.jpg"
+            src="/journey/leadership/manohar/1.jpg"
             alt="Community Service & Volunteering"
-            width={100}
-            height={100}
+            width={500}
+            height={500}
             className="mx-auto h-24 w-auto"
           />
 

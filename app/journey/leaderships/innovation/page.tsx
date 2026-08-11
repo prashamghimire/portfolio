@@ -16,10 +16,10 @@ export default function InnovationPage() {
         <section className="max-w-6xl mx-auto px-8 pt-20 text-center">
 
           <Image
-            src="/journey/leadership/innovation-cover.jpg"
+            src="/journey/innovation-cover.png"
             alt="Innovation & Entrepreneurship"
-            width={100}
-            height={100}
+            width={500}
+            height={500}
             className="mx-auto h-24 w-auto"
           />
 

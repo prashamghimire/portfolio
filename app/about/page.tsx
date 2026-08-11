@@ -93,7 +93,7 @@ export default function AboutPage() {
   <div className="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
     <p className="text-sm font-semibold text-slate-500">Languages</p>
     <p className="mt-2 text-lg font-medium text-slate-900">
-      Nepali, English, Hindi, Urdu
+      Nepali and English
     </p>
   </div>
 
@@ -110,25 +110,16 @@ export default function AboutPage() {
 <section className="max-w-6xl mx-auto px-8 py-16">
 
   <h2 className="text-3xl font-bold text-slate-900 mb-8">
-    Current Life
+    About The  Website
   </h2>
 
   <div className="bg-white rounded-2xl shadow-md p-8">
     <p className="text-lg leading-8 text-slate-700">
-Currently, I'm in my post +2 boards vacation period, and I am preparing for my upcoming university entrance exams. I am also actively involved in various extracurricular activities, including public speaking, writing, and leadership roles within my community.
+      prashamghimire.com.np is the official personal website and digital archive of Prasham Ghimire. The website brings together his academic journey, leadership experiences, writings, publications and features, official notices, achievements, and selected milestones in one permanent digital space.
     </p>
-
-    <p className="mt-5 text-lg leading-8 text-slate-700">
-      Alongside my studies, I continue exploring learning various ideas and lessons from multiple disciplines, creativity,
-      communication, and personal growth through different experiences.
+    <p className="text-lg leading-8 text-slate-700 mt-4">
+      It is intended to serve not only as a portfolio, but also as an evolving record of his work, interests, experiences, and personal development. The website is continuously updated as new milestones, writings, projects, publications, and experiences become part of his journey.
     </p>
-
-    <p className="mt-5 text-lg leading-8 text-slate-700">
-      This website is a personal archive where I document my journey,
-      memories, writings, achievements, and the people who have been
-      part of my life.
-    </p>
-
   </div>
 
 </section>

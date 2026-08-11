@@ -2,6 +2,34 @@ import { Achievement } from "../journey/lunar";
 
 export const communityServiceAchievements: Achievement[] = [
 
+
+  {
+    title: "Lecture on 'How To Make Better Decisions: Explained by Economics' ",
+
+    category: "Community Service",
+
+    date: "2026/07/24",
+
+    organizer: "Shree Manohar Secondary School",
+
+    location: "Kathmandu",
+
+    summary:
+      "Organized an educational seminar to support local students on how to make better decisions in their day-to-day lives.",
+
+    description:
+      "The seminar aimed to provide students with practical knowledge and guidance on decision-making, critical thinking, and personal development. It was a rewarding experience to engage with the community and contribute to the educational growth of young minds.",
+
+    images: [
+      "/journey/leadership/manohar/11.jpg",
+      "/journey/leadership/manohar/1.jpg",
+      "/journey/leadership/manohar/2.jpg",
+      "/journey/leadership/manohar/3.jpg",
+
+    ],
+  },
+
+
   {
     title: "Blood Donations",
 
