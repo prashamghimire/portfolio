@@ -19,8 +19,8 @@ export default function PublicSpeakingPage() {
           <Image
             src="/journey/public-speaking-cover.jpg"
             alt="Public Speaking"
-            width={500}
-            height={500}
+            width={1000}
+            height={1000}
             className="mx-auto h-24 w-auto"
           />
 

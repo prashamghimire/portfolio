@@ -20,8 +20,8 @@ export default function CommunityServicePage() {
           <Image
             src="/journey/leadership/manohar/1.jpg"
             alt="Community Service & Volunteering"
-            width={500}
-            height={500}
+            width={1000}
+            height={1000}
             className="mx-auto h-24 w-auto"
           />
 

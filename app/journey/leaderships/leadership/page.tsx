@@ -19,8 +19,8 @@ export default function LeadershipPage() {
           <Image
             src="/journey/leadership-cover.jpg"
             alt="Leadership"
-            width={500}
-            height={500}
+            width={1000}
+            height={1000}
             className="mx-auto h-24 w-auto"
           />
 

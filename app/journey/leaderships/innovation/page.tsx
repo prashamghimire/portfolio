@@ -18,8 +18,8 @@ export default function InnovationPage() {
           <Image
             src="/journey/innovation-cover.png"
             alt="Innovation & Entrepreneurship"
-            width={500}
-            height={500}
+            width={1000}
+            height={1000}
             className="mx-auto h-24 w-auto"
           />
 
