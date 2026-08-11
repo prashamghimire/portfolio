@@ -77,7 +77,23 @@ export default function SWSCPage() {
     >
       ← Southwestern State Secondary School
     </Link>
+    </div>
+
+<div className="text-right">
+
+
+    <p className="text-sm text-slate-500">
+      My Journey Beyond Academics
+    </p>
+
+    <Link
+      href="/journey/leaderships"
+      className="mt-2 inline-block text-lg font-semibold text-slate-900 hover:text-yellow-600 transition"
+    >
+      Leadership and Service Journey →
+    </Link>
 </div>
+
 </section>
 
 </main>

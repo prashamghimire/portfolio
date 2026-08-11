@@ -50,7 +50,7 @@ export default function EducationPage() {
             </p>
 
             <Link
-              href="/education/navajeewan"
+              href="/journey/navajeewan"
               className="inline-block mt-8 bg-slate-900 text-white px-6 py-3 rounded-lg hover:bg-slate-800 transition"
             >
               Read More
@@ -80,7 +80,7 @@ export default function EducationPage() {
             </p>
 
             <Link
-              href="/education/swsc"
+              href="/journey/swsss"
               className="inline-block mt-8 bg-slate-900 text-white px-6 py-3 rounded-lg hover:bg-slate-800 transition"
             >
               Read More
@@ -108,7 +108,7 @@ export default function EducationPage() {
   </p>
 
   <Link
-    href="/education/unepal"
+    href="/journey/unepal"
     className="inline-block mt-8 bg-slate-900 text-white px-6 py-3 rounded-lg hover:bg-slate-800 transition"
   >
     Read More
