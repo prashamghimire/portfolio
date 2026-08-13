@@ -40,7 +40,9 @@ export interface Writing {
 }
 
 export const writings: Writing[] = [
+
   
+
 {
   id: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
 
@@ -78,7 +80,57 @@ export const writings: Writing[] = [
   ],
 
   content:
-    "writings/tpom.md",
+    "writings/philosophy-vs-selfhelp.md",
+},
+
+
+
+
+{
+  id: "Essay-philosophy-vs-selfhelp",
+
+  title: "Why Philosophy Over Self-Help Culture?",
+
+  slug: "Essay-philosophy-vs-selfhelp",
+
+  category: "Essay",
+
+  language: "English",
+
+  published: "2026/08/13",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "",
+
+  background:
+    " This is the an essay I wrote during my post +2 board exam leisure time, which was initially inspired by a reel that showed upon my Instagram feed.",
+
+  dedication:
+    "",
+
+  topics: [
+    "argumentative essay",
+    "philosophy",
+    "self-help",
+    "critical essay",
+    "essay",
+    "philosophy vs self-help",
+  ],
+
+  keywords: [
+    "essay",
+    "philosophy",
+    "self-help",
+    "comparison",
+    "philosophy vs self-help",
+  ],
+
+  content:
+    "writings/philosophy-vs-selfhelp.md",
 },
 
 
