@@ -43,6 +43,7 @@ export const writings: Writing[] = [
 
   
 
+
 {
   id: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
 
@@ -130,7 +131,98 @@ export const writings: Writing[] = [
   ],
 
   content:
-    "writings/philosophy-vs-selfhelp.md",
+    "writings/vedic-tech.md",
+},
+
+
+
+{
+  id: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
+
+  title: "Testimonial featured in the book 'The Power of Mindset' by Dr. Rajendra KC",
+
+  slug: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
+
+  category: "Editorial Contributions",
+
+  language: "English",
+
+  published: "2026/07/31",
+
+  featured: true,
+
+  cover: null,
+
+  summary:
+    "Read it if you want to know what I think about the book 'The Power of Mindset' by Dr. Rajendra KC.",
+
+  background:
+    " This is the testimonial I wrote for the book 'The Power of Mindset' by Dr. Rajendra KC, which was published in the book.",
+
+  dedication:
+    "To all the readers of this book.",
+
+  topics: [
+    "book testimonials",
+    "review",
+    "editorial contribution",
+  ],
+
+  keywords: [
+    "testimonials",
+  ],
+
+  content:
+    "writings/tpom.md",
+},
+
+
+
+
+{
+  id: "Essay – Is All Technology in the Vedas?",
+
+  title: "Is All Technology in the Vedas?",
+
+  slug: "Essay – Is All Technology in the Vedas?",
+
+  category: "Essay",
+
+  language: "English",
+
+  published: "2026/08/16",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "Genuine respect for ancient thinkers means allowing their ideas to be studied honestly. Turning every myth, metaphor, and miracle into a claim about modern technology is not how we should study the past. Stop retrospectively attributing modern discoveries to ancient texts and calling it Vedic glory.",
+
+  background:
+    "This is the an essay I wrote during my post +2 board exam leisure time.",
+
+  dedication:
+    "",
+
+  topics: [
+    "argumentative essay",
+    "philosophy",
+    "self-help",
+    "critical essay",
+    "essay",
+    "philosophy vs self-help",
+  ],
+
+  keywords: [
+    "essay",
+    "philosophy",
+    "religion",
+    "critique"
+  ],
+
+  content:
+    "writings/vedic-tech.md"
 },
 
 
