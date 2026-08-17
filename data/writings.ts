@@ -41,58 +41,59 @@ export interface Writing {
 
 export const writings: Writing[] = [
 
-  
-
-
 {
-  id: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
+  id: "is-all-technology-in-the-vedas",
 
-  title: "Testimonial featured in the book 'The Power of Mindset' by Dr. Rajendra KC",
+  title: "Is All Technology in the Vedas?",
 
-  slug: "Testimonial-featured-in-the-book-The-Power-of-Mindset-by-Dr-Rajendra-KC",
+  slug: "is-all-technology-in-the-vedas",
 
-  category: "Editorial Contributions",
+  category: "Essay",
 
   language: "English",
 
-  published: "2026/07/31",
+  published: "2026/08/16",
 
-  featured: true,
+  featured: false,
 
   cover: null,
 
   summary:
-    "Read it if you want to know what I think about the book 'The Power of Mindset' by Dr. Rajendra KC.",
+    "Genuine respect for ancient thinkers means allowing their ideas to be studied honestly. Turning every myth, metaphor, and miracle into a claim about modern technology is not how we should study the past. Stop retrospectively attributing modern discoveries to ancient texts and calling it Vedic glory.",
 
   background:
-    " This is the testimonial I wrote for the book 'The Power of Mindset' by Dr. Rajendra KC, which was published in the book.",
+    " This is the an essay I wrote during my post +2 board exam leisure time.",
 
   dedication:
-    "To all the readers of this book.",
+    "To all my relatives.",
 
   topics: [
-    "book testimonials",
-    "review",
-    "editorial contribution",
+    "argumentative essay",
+    "philosophy",
+    "self-help",
+    "critical essay",
+    "essay",
+    "religion",
   ],
 
   keywords: [
-    "testimonials",
+    "essay",
+    "philosophy",
+    "self-help",
+    "comparison",
+    "religion",
   ],
 
   content:
-    "writings/philosophy-vs-selfhelp.md",
+    "writings/vedic-tech.md",
 },
 
-
-
-
 {
-  id: "Essay-philosophy-vs-selfhelp",
+  id: "Philosophy-over-selfhelp-culture",
 
-  title: "Why Philosophy Over Self-Help Culture?",
+  title: "Why Philosophy over Self-help Culture",
 
-  slug: "Essay-philosophy-vs-selfhelp",
+  slug: "philosophy-over-self-help-culture",
 
   category: "Essay",
 
@@ -105,10 +106,10 @@ export const writings: Writing[] = [
   cover: null,
 
   summary:
-    "",
+    "It is a critical essay that compares philosophy and self-help culture.",
 
   background:
-    " This is the an essay I wrote during my post +2 board exam leisure time, which was initially inspired by a reel that showed upon my Instagram feed.",
+    "This is the an essay I wrote during my post +2 board exam leisure time.",
 
   dedication:
     "",
@@ -125,13 +126,12 @@ export const writings: Writing[] = [
   keywords: [
     "essay",
     "philosophy",
-    "self-help",
-    "comparison",
-    "philosophy vs self-help",
+    "religion",
+    "critique"
   ],
 
   content:
-    "writings/vedic-tech.md",
+    "writings/philosophy-vs-selfhelp.md",
 },
 
 
@@ -177,58 +177,8 @@ export const writings: Writing[] = [
 },
 
 
-
-
-{
-  id: "Essay – Is All Technology in the Vedas?",
-
-  title: "Is All Technology in the Vedas?",
-
-  slug: "Essay – Is All Technology in the Vedas?",
-
-  category: "Essay",
-
-  language: "English",
-
-  published: "2026/08/16",
-
-  featured: false,
-
-  cover: null,
-
-  summary:
-    "Genuine respect for ancient thinkers means allowing their ideas to be studied honestly. Turning every myth, metaphor, and miracle into a claim about modern technology is not how we should study the past. Stop retrospectively attributing modern discoveries to ancient texts and calling it Vedic glory.",
-
-  background:
-    "This is the an essay I wrote during my post +2 board exam leisure time.",
-
-  dedication:
-    "",
-
-  topics: [
-    "argumentative essay",
-    "philosophy",
-    "self-help",
-    "critical essay",
-    "essay",
-    "philosophy vs self-help",
-  ],
-
-  keywords: [
-    "essay",
-    "philosophy",
-    "religion",
-    "critique"
-  ],
-
-  content:
-    "writings/vedic-tech.md"
-},
-
-
-
   {
-  id: "muktaks",
+  id: "muktaks", 
 
   title: "मुक्तकहरू",
 

@@ -1,6 +1,5 @@
 # Is All Technology In The Vedas?
-
-How Mythology, Politics, And Post-Truth Thinking Distort Science \& History
+*How Mythology, Politics, And Post-Truth Thinking Distort Science & History*
 
 
 
@@ -216,7 +215,4 @@ People should be skeptical especially when politicians and influencers make thes
 
 Respecting the past does not mean inventing (or remoulding) a past. Genuine patriotism does not require falsehood. And genuine respect for ancient thinkers means allowing their ideas to be studied honestly. Turning every myth, metaphor, and miracle into a claim about modern technology is not how we should study the past.
 
-Stop retrospectively attributing modern discoveries to ancient texts and calling it “Vedic glory.”
-
-
-
+Stop retrospectively attributing modern discoveries to ancient texts and calling it “Vedic glory.”ss
