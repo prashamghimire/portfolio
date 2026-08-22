@@ -33,7 +33,7 @@ export default function AboutPage() {
           <div className="flex justify-center">
   <div className="rounded-3xl border-4 border-yellow-400 p-2 bg-white shadow-2xl hover:scale-105 transition duration-300">
     <Image 
-      src="/images/profile/about.png"
+      src="/images/profile/about.jpg"
       alt="Portrait of Prasham Ghimire"
       width={340}
       height={430}
