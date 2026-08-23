@@ -53,7 +53,7 @@ export default function AboutPage() {
             <p className="mt-6 leading-8 text-slate-700">
               Welcome! My name is <strong>Prasham Ghimire</strong>.
               I was born in Arjundhara, Jhapa, Nepal, and I am currently pursuing
-              my undergraduate studies at Universito of Nepal (UNepal) .
+              my undergraduate studies at University of Nepal (UNepal) .
             </p>
 
             <p className="mt-5 leading-8 text-slate-700">

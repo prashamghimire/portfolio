@@ -9,7 +9,7 @@ export default function PersonSchema() {
 
     url: "https://prashamghimire.com.np",
 
-    image: "https://prashamghimire.com.np/profile.png",
+    image: "https://prashamghimire.com.np/portrait.png",
 
     description:
       "Prasham Ghimire is a Nepali student, writer, and creator of the official website prashamghimire.com.np, documenting his academic journey, leadership, writings, projects, and official communications.",
