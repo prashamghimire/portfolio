@@ -38,7 +38,7 @@ export default function PersonSchema() {
     sameAs: [
       "https://www.instagram.com/prasham_ghim/",
       "https://www.facebook.com/prasham.ghimire.564885",
-      "https://www.linkedin.com/in/prasham-ghimire-36707b294/",
+      "https://www.linkedin.com/in/prasham-ghimire/",
       "https://x.com/prasham_Ghim",
       "https://www.tiktok.com/@prasham_ghim",
       "https://prashamghim.substack.com/",
