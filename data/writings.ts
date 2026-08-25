@@ -62,7 +62,7 @@ export const writings: Writing[] = [
     "Genuine respect for ancient thinkers means allowing their ideas to be studied honestly. Turning every myth, metaphor, and miracle into a claim about modern technology is not how we should study the past. Stop retrospectively attributing modern discoveries to ancient texts and calling it Vedic glory.",
 
   background:
-    " This is the an essay I wrote during my post +2 board exam leisure time.",
+    " This is an essay I wrote during my post +2 board exam leisure time.",
 
   dedication:
     "To all my relatives.",

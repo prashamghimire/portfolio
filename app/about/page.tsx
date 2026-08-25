@@ -1,3 +1,30 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About Prasham Ghimire",
+  description:
+    "Learn about Prasham Ghimire, a student from Nepal currently pursuing undergraduate studies at University of Nepal, with interests in leadership, management, economics, education, writing and public speaking.",
+  alternates: {
+    canonical: "https://prashamghimire.com.np/about",
+  },
+  openGraph: {
+    title: "About Prasham Ghimire | Official Website",
+    description:
+      "The official biography and personal profile of Prasham Ghimire.",
+    url: "https://prashamghimire.com.np/about",
+    siteName: "Prasham Ghimire",
+    type: "profile",
+    images: [
+      {
+        url: "https://prashamghimire.com.np/portrait.png",
+        width: 1200,
+        height: 630,
+        alt: "Prasham Ghimire",
+      },
+    ],
+  },
+};
+
 import Image from "next/image";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
@@ -51,15 +78,12 @@ export default function AboutPage() {
             </h2>
 
             <p className="mt-6 leading-8 text-slate-700">
-              Welcome! My name is <strong>Prasham Ghimire</strong>.
-              I was born in Arjundhara, Jhapa, Nepal, and I am currently pursuing
-              my undergraduate studies at University of Nepal (UNepal) .
+              <strong>Prasham Ghimire</strong> is a student from Jhapa, Nepal, currently pursuing undergraduate studies at the University of Nepal (UNepal). His interests include leadership, management, economics, education, public speaking, literature and philosophy.
+              
             </p>
 
             <p className="mt-5 leading-8 text-slate-700">
-              This website serves as a personal archive where I document
-              my journey, experiences, achievements, writings, photographs,
-              and the people who have been part of my life.
+              This website is his official personal website and digital archive, documenting his academic journey, leadership experiences, writings, publications, achievements and selected milestones.
             </p>
 
           </div>
