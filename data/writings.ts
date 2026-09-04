@@ -8,6 +8,7 @@ export interface Writing {
   category:
     | "Article"
     | "Essay"
+    | "Blog"
     | "Speech"
     | "Poem"
     | "Muktak"
@@ -42,6 +43,98 @@ export interface Writing {
 export const writings: Writing[] = [
 
 {
+  id: "meaning-of-the-name-prasham",
+
+  title: "Meaning of the name - Prasham",
+
+  slug: "meaning-of-the-name-prasham",
+
+  category: "Blog",
+
+  language: "English",
+
+  published: "2026/09/04",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "It is a personal blog post that explains the story and the meaning of my name.",
+
+  background:
+    "This is the a blog I was given as an assignment at UNepal. So, I decided to include it in my writings section as well.",
+
+  dedication:
+    "",
+
+  topics: [
+    "Blog",
+    "Personal",
+    "Name",
+  ],
+
+  keywords: [
+    "blog",
+    "personal",
+    "name"
+  ],
+
+  content:
+    "writings/my-name.md",
+},
+
+  {
+  id: "is-all-technology-in-the-vedas",
+
+  title: "Is All Technology in the Vedas?",
+
+  slug: "is-all-technology-in-the-vedas",
+
+  category: "Essay",
+
+  language: "English",
+
+  published: "2026/08/16",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "Genuine respect for ancient thinkers means allowing their ideas to be studied honestly. Turning every myth, metaphor, and miracle into a claim about modern technology is not how we should study the past. Stop retrospectively attributing modern discoveries to ancient texts and calling it Vedic glory.",
+
+  background:
+    " This is an essay I wrote during my post +2 board exam leisure time.",
+
+  dedication:
+    "To all my relatives.",
+
+  topics: [
+    "argumentative essay",
+    "philosophy",
+    "self-help",
+    "critical essay",
+    "essay",
+    "religion",
+  ],
+
+  keywords: [
+    "essay",
+    "philosophy",
+    "self-help",
+    "comparison",
+    "religion",
+  ],
+
+  content:
+    "writings/vedic-tech.md",
+},
+
+
+  
+{
+  
   id: "is-all-technology-in-the-vedas",
 
   title: "Is All Technology in the Vedas?",
