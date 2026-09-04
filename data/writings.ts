@@ -63,7 +63,7 @@ export const writings: Writing[] = [
     "It is a personal blog post that explains the story and the meaning of my name.",
 
   background:
-    "This is the a blog I was given as an assignment at UNepal. So, I decided to include it in my writings section as well.",
+    "We were given an assignment at UNepal, where we were told to find out the meanings of our names. So, I decided to include it in my writings section as well.",
 
   dedication:
     "",
