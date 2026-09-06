@@ -49,8 +49,7 @@ export const writings: Writing[] = [
 
   slug: "meaning-of-the-name-prasham",
 
-  category: "Blog"
-  "Essay",
+  category: "Essay",
 
   language: "English",
 
