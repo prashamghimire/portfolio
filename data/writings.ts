@@ -49,7 +49,8 @@ export const writings: Writing[] = [
 
   slug: "meaning-of-the-name-prasham",
 
-  category: "Blog",
+  category: "Blog"
+  "Essay",
 
   language: "English",
 
@@ -60,7 +61,7 @@ export const writings: Writing[] = [
   cover: null,
 
   summary:
-    "It is a personal blog post that explains the story and the meaning of my name.",
+    "It is a narrative essay as a blog post that explains the story and the meaning of my name.",
 
   background:
     "We were given an assignment at UNepal, where we were told to find out the meanings of our names. So, I decided to include it in my writings section as well.",
