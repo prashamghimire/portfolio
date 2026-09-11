@@ -42,6 +42,53 @@ export interface Writing {
 
 export const writings: Writing[] = [
 
+
+{
+  id: "spirituality-religion-in-disguise",
+
+  title: "Spirituality: Religion in Disguise",
+
+  slug: "spirituality-religion-in-disguise",
+
+  category: "Essay",
+
+  language: "English",
+
+  published: "2026/09/11",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "It is a critical essay that explains how spirituality is often disguised as religion, and how it can be a tool for manipulation and control.",
+
+  background:
+    "",
+
+  dedication:
+    "",
+
+  topics: [
+    "essay",
+    "critique",
+    "spirituality",
+    "philosophy",
+    "psychology",
+    "religion"
+  ],
+
+  keywords: [
+    "essay",
+    "critique",
+    "spirit",
+    "spirituality",
+  ],
+
+  content:
+    "writings/on-spirituality.md",
+},
+
 {
   id: "meaning-of-the-name-prasham",
 
