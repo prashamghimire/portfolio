@@ -34,4 +34,4 @@ While practices like: mindfulness, expression of gratitude, and meditation might
 
 > ***Essentially, what spirituality sells us is merely psychological as well as philosophical to some extent. Therefore, the existence of this industry is even more irrelevant, less structured as compared to religions, and far more dangerous too.***
 
-At last, if you are someone who feels the need to find and understand your inner-self, visiting a psychiatrist is far better than spending time, effort, and money on spiritual rituals.
+At last, if you are someone who feels the need to find and understand your inner-self, visiting a psychiatrist might help far more than spending time, effort, and money on spiritual rituals.
