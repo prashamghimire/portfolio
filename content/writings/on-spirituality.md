@@ -33,3 +33,5 @@ When traditional religious institutions lost their grip over the society's power
 While practices like: mindfulness, expression of gratitude, and meditation might help to promote self-awareness, connection with nature, and peace of mind, they need not be bought through financial transactions like retreat pricing. 
 
 > ***Essentially, what spirituality sells us is merely psychological as well as philosophical to some extent. Therefore, the existence of this industry is even more irrelevant, less structured as compared to religions, and far more dangerous too.***
+
+At last, if you are someone who feels the need to find and understand your inner-self, visiting a psychiatrist is far better than spending time, effort, and money on spiritual rituals.
