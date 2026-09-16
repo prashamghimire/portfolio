@@ -11,6 +11,7 @@ export interface Writing {
     | "Blog"
     | "Speech"
     | "Poem"
+    | "Memoir"
     | "Muktak"
     | "Reflection"
     | "Journal"
@@ -41,6 +42,55 @@ export interface Writing {
 }
 
 export const writings: Writing[] = [
+
+
+{
+  id: "when-i-last-visited-my-school",
+
+  title: "When I Last Visited My School",
+
+  slug: "when-i-last-visited-my-school",
+
+  category: "Essay",
+
+  language: "English",
+
+  published: "2026-09-15",
+
+  featured: false,
+
+  cover: null,
+
+  summary:
+    "A reflection on the memories and emotions associated with visiting my old school.  ",
+
+  background:
+    "",
+
+  dedication:
+    "Anonymous.",
+
+  topics: [
+    "Essay",
+    "grief",
+    "nostalgia",
+    "school"
+  ],
+
+  keywords: [
+    "grief",
+    "nostalgia",
+    "school",
+  ],
+
+  content:
+    "writings/school.md",
+},
+
+
+
+
+
 
 
 {
