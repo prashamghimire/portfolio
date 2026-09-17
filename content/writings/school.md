@@ -1,4 +1,4 @@
-# When I Visited My School Last Time
+# When I Last Visited My School
 
 Schools are one of the few places that remain the same against the flow of time. Most of the schools I have ever visited are still the same – the buildings, the offices, the labs, the lavatories, the drinking water tap, the ground, and even the paints. Many adults visit their school on a regular basis to feel nostalgia and recollect old memories. A few months ago, I was invited by my school to give a presentation on Early Leadership Development. I felt extremely honored and excited to visit my school where I spent 14 years of my life. I have always been deeply attached to my school.
 When I was heading towards my school, it was around 9:30 in the morning. As I was walking past the roads and the alleys – I began to realize that the shops we used to buy things from have been replaced by other new shops. It was a strange feeling for me. I remember, I would walk on those roads with tremendous self-confidence, but now I felt as if I was lost.
