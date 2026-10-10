@@ -2,6 +2,31 @@ import { Achievement } from "../journey/lunar";
 
 export const leadershipAchievements: Achievement[] = [
 
+
+  {
+    title: "President - Leadership & Dialogue Forum",
+
+    category: "Leadership",
+
+    date: "2083 B.S. - (2026-Present)",
+
+    result: "Elected",
+
+    organizer: "University of Nepal, SAST",
+
+    location: "Kathmandu",
+
+    summary:
+      "Served as the President of the Leadership & Dialogue Forum.",
+
+    description:
+      "Being elected as the President of the Leadership & Dialogue Forum remains one of the biggest milestones of my life. This responsibility transformed my confidence, leadership skills, communication abilities and decision-making. I represented the students, coordinated numerous school activities and learned how to lead with responsibility.",
+
+    images: [
+      "/journey/unepal/ladf.png",
+    ],
+  },
+
   {
     title: "School Head Boy",
 
@@ -24,7 +49,7 @@ export const leadershipAchievements: Achievement[] = [
     images: [
       "/journey/leadership/headboy/1.jpg",
       "/journey/leadership/headboy/2.jpg",
-     ],
+    ],
   },
 
   {

@@ -3,6 +3,59 @@ import { Achievement } from "../journey/lunar";
 export const publicSpeakingAchievements: Achievement[] = [
 
   {
+    title: "E-Poster Presentation On My On-Going Research",
+
+    category: "Research Presentation",
+
+    date: "2026",
+
+    organizer: "Southwestern Group",
+
+    location: "Southwestern State College",
+
+    summary:
+      "Presented an e-poster on my ongoing research.",
+
+    description:
+      "I had the chance to deliver an e-poster presentation on my ongoing research. The presentation highlighted the key findings and implications of my study.",
+
+    images: [
+      "/journey/leadership/research/1.jpg",
+      "/journey/leadership/research/3.jpg",
+
+    ],
+  },
+
+
+{
+    title: "Alumni Lecture on 'How To Make Your +2 Years More Meaningful' ",
+
+    category: "Alumni Lecture",
+
+    date: "2026",
+
+    organizer: "Southwestern State College",
+
+    location: "Southwestern State College",
+
+    summary:
+      "Delivered an alumni lecture on 'How To Make Your +2 Years More Meaningful'.",
+
+    description:
+      "I had the chance to deliver an alumni lecture on 'How To Make Your +2 Years More Meaningful'. The lecture focused on making the most of one's +2 years and preparing for future endeavors.",
+
+    images: [
+      "/journey/leadership/student-teacher/3.jpg",
+      "/journey/leadership/student-teacher/4.jpg",
+      "/journey/leadership/student-teacher/31.jpg",
+      "/journey/leadership/student-teacher/lastt.jpg",
+      "/journey/leadership/student-teacher/last.jpg",
+
+    ],
+  },
+
+
+  {
     title: "Personality & Leadership Development Seminar",
 
     category: "Seminar",
