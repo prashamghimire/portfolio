@@ -101,6 +101,15 @@ export default function Footer() {
                 TikTok
               </a>
 
+<a
+                href="https://www.youtube.com/@prasham_ghim"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-yellow-400 transition"
+              >
+                YouTube
+              </a>
+
               <a
                 href="https://prashamghim.substack.com/"
                 target="_blank"
