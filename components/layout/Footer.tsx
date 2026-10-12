@@ -66,14 +66,22 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://www.instagram.com/prasham_ghim/"
+                href="https://x.com/prasham_Ghim"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-yellow-400 transition"
               >
-                Instagram
+                X (Previously Twitter) 
               </a>
-
+<a
+                href="https://prashamghim.substack.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-yellow-400 transition"
+              >
+                Substack
+              </a>
+              
               <a
                 href="https://www.linkedin.com/in/prasham-ghimire-36707b294/"
                 target="_blank"
@@ -84,24 +92,6 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://x.com/prasham_Ghim"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-yellow-400 transition"
-              >
-                X (Previously Twitter) 
-              </a>
-
-              <a
-                href="https://www.tiktok.com/@prasham_ghim"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-yellow-400 transition"
-              >
-                TikTok
-              </a>
-
-<a
                 href="https://www.youtube.com/@prasham_ghim"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -111,12 +101,20 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://prashamghim.substack.com/"
+                href="https://www.instagram.com/prasham_ghim/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-yellow-400 transition"
               >
-                Substack
+                Instagram
+              </a>
+<a
+                href="https://www.tiktok.com/@prasham_ghim"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-yellow-400 transition"
+              >
+                TikTok
               </a>
 
             </div>
