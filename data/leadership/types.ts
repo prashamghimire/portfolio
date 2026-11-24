@@ -1,4 +1,4 @@
-import { Achievement } from "../journey/lunar";
+import type { Achievement } from "../journey/lunar";
 
 export interface CategoryPageData {
   title: string;

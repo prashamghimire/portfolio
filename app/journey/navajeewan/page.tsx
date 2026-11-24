@@ -42,7 +42,7 @@ export default function NavajeewanPage() {
           <div className="bg-white rounded-3xl shadow-md p-10">
 
             <p className="text-lg leading-8 text-slate-700">
-              Navajeewan School & College transformed me from an active participant into a student leader. During my SEE years, I served as School Headboy, Secretary General of the Children's Club, and later President of the School. These experiences strengthened my leadership, responsibility, and confidence while continuing my pursuit of academic and co-curricular excellence.
+              Navajeewan School & College transformed me from an active participant into a student leader. During my SEE years, I served as School Headboy, Secretary General of the Children&apos;s Club, and later President of the School. These experiences strengthened my leadership, responsibility, and confidence while continuing my pursuit of academic and co-curricular excellence.
             </p>
 
           </div>
