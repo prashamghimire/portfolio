@@ -5,7 +5,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
 import { writings } from "@/data/writings";
-import { getMarkdownContent } from "@/lib/markdown";
+import { renderMarkdown } from "@/lib/markdown";
 
 function formatDate(date: string) {
   return new Date(date).toLocaleDateString("en-GB", {
@@ -67,9 +67,7 @@ export default async function WritingPage({
   const {
     htmlContent,
     readingTime,
-  } = await getMarkdownContent(
-    writing.content
-  );
+  } = await renderMarkdown(writing.content);
 
   const isPoem =
     writing.category === "Poem";

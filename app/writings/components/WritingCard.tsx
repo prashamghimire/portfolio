@@ -31,25 +31,21 @@ export default function WritingCard({
     categoryIcons[writing.category] || "✒️";
 
 
-  const Cover = () => (
+  const cover = writing.cover ? (
 
-    writing.cover ? (
+    <img
+      src={writing.cover}
+      alt={writing.title}
+      className="w-full h-full object-cover"
+    />
 
-      <img
-        src={writing.cover}
-        alt={writing.title}
-        className="w-full h-full object-cover"
-      />
+  ) : (
 
-    ) : (
+    <div className="w-full h-full flex items-center justify-center text-5xl bg-slate-200">
 
-      <div className="w-full h-full flex items-center justify-center text-5xl bg-slate-200">
+      {icon}
 
-        {icon}
-
-      </div>
-
-    )
+    </div>
 
   );
 
@@ -63,7 +59,7 @@ export default function WritingCard({
 
         <div className="h-48">
 
-          <Cover />
+          {cover}
 
         </div>
 
@@ -119,7 +115,7 @@ export default function WritingCard({
 
       <div className="w-48 h-36 rounded-xl overflow-hidden shrink-0">
 
-        <Cover />
+        {cover}
 
       </div>
 

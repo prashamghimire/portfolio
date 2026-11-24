@@ -5,7 +5,6 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
 import AchievementCard from "@/components/journey/AchievementCard";
-import { innovationAchievements } from "@/data/leadership/innovation";
 import { communityServiceAchievements } from "@/data/leadership/community-service";
 
 export default function CommunityServicePage() {
